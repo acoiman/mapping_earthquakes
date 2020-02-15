@@ -1,80 +1,36 @@
-# Project Title
+# Title
 
-One Paragraph of project description goes here
+Retrieve, Analyze and Visualize georreferenced data of earthquakes near [Fiji](https://es.wikipedia.org/wiki/Fiyi) since 1964
 
-## Getting Started
+## Introduction
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These set of notebooks will show you how to map earthquakes from a database using ***Python*** libraries. The database was filled out from  a CSV file obtained from the [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/).
+
+`Rdatasets` is a collection of over 1300 datasets that were originally distributed alongside the statistical software environment R and some of its add-on packages. 
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+See [environment.yml](environment.yml) for details about the required packages to deploy the notebooks.
 
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+This repository contains three notebooks:
 
-## Built With
+1. [reading_dataset.ipynb](reading_dataset.ipynb): contains the code to read through the `Rdatasers` and look for dataset links containing the terms ***latitude*** and ***longitude***.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+2. [db_earthquakes.ipynb](db_earthquakes.ipynb) creates a database from the [selected dataset](https://vincentarelbundock.github.io/Rdatasets/csv/datasets/quakes.csv)  and computes some spatial statistics.
 
-## Contributing
+3. [map_earthquakes.ipynb](map_earthquakes.ipynb) takes the database data a creates a web map using the [Folium](https://pypi.org/project/folium/) package.
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+To reproduce the results run the above notebooks in the same order on [Binder](https://mybinder.org/).
 
-## Versioning
+Additionally, there is a file named [map.html](map.html) showing the final result.
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
+## Author
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Abraham Coiman** - [acoiman](https://acoiman.github.io/)
 
 ## License
 
@@ -82,6 +38,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thanks to [Coursera](https://www.coursera.org/)'s financial aid I could complete the Python Specialization [Python for Everybody](https://www.coursera.org/specializations/python)  that allowed me to obtain the essentials insights to write the above-mentioned notebooks.
