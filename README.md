@@ -21,7 +21,7 @@ This repository contains three notebooks:
 
 2. [db_earthquakes.ipynb](db_earthquakes.ipynb) creates a database from the [selected dataset](https://vincentarelbundock.github.io/Rdatasets/csv/datasets/quakes.csv)  and computes some spatial statistics.
 
-3. [map_earthquakes.ipynb](map_earthquakes.ipynb) takes the database data a creates a web map using the [Folium](https://pypi.org/project/folium/) package.
+3. [map_earthquakes.ipynb](map_earthquakes.ipynb) takes the database data and creates a web map using the [Folium](https://pypi.org/project/folium/) package.
 
 To reproduce the results run the above notebooks in the same order on [Binder](https://mybinder.org/).
 
