@@ -10,7 +10,7 @@ These set of notebooks will show you how to map earthquakes from a database usin
 
 ### Prerequisites
 
-See [environment.yml](environment.yml) for details about the required packages to deploy the notebooks.
+See [requirements.txt](requirements.txt) for details about the required packages to deploy the notebooks.
 
 
 ## Deployment
