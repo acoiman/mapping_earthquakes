@@ -4,7 +4,7 @@ Retrieve, Analyze and Visualize georreferenced data of earthquakes near [Fiji](h
 
 ## Introduction
 
-These set of notebooks will show you how to map earthquakes from a database using standard ***Python*** and ***Folium**** libraries. The database was filled out from  a CSV file obtained from the [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/).
+These set of notebooks will show you how to map earthquakes from a database using standard ***Python*** and ***Folium*** libraries. The database was filled out from  a CSV file obtained from the [Rdatasets](https://vincentarelbundock.github.io/Rdatasets/).
 
 `Rdatasets` is a collection of over 1300 datasets that were originally distributed alongside the statistical software environment R and some of its add-on packages. 
 
