@@ -25,7 +25,7 @@ This repository contains three notebooks:
 
 To reproduce the results run the above notebooks in the same order on [Binder](https://mybinder.org/).
 
-Additionally, there is a file named [map.html](map.html) showing the final result.
+Additionally, there is a file named [map.html]() showing the final result.
 
 
 ## Author
