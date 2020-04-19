@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acoiman/mapping_earthquakes/master)
+
 # Title
 
 Retrieve, Analyze and Visualize georreferenced data of earthquakes near [Fiji](https://es.wikipedia.org/wiki/Fiyi) since 1964
