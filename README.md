@@ -2,7 +2,7 @@
 
 # Title
 
-Retrieve, Analyze and Visualize georreferenced data of earthquakes near [Fiji](https://es.wikipedia.org/wiki/Fiyi) since 1964
+Retrieve, Analyze and Visualize georeferenced data of earthquakes near [Fiji](https://es.wikipedia.org/wiki/Fiyi) since 1964
 
 ## Introduction
 
