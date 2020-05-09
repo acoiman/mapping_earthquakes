@@ -27,7 +27,7 @@ This repository contains three notebooks:
 
 To reproduce the results run the above notebooks in the same order on [Binder](https://mybinder.org/).
 
-Additionally, there is a file named [map.html](https://acoiman.github.io/maps/map.html) showing the final result.
+Additionally, there is a file named [map.html](https://acoiman.github.io/maps/earthquake_fiji/map/) showing the final result.
 
 
 ## Author
