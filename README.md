@@ -1,4 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acoiman/mapping_earthquakes/master)
+[![GitHub license](https://img.shields.io/github/license/acoiman/mapping_earthquakes)](https://github.com/acoiman/mapping_earthquakes/blob/master/LICENSE.md)
 
 # Title
 
