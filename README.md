@@ -1,5 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/acoiman/mapping_earthquakes/master)
 [![GitHub license](https://img.shields.io/github/license/acoiman/mapping_earthquakes)](https://github.com/acoiman/mapping_earthquakes/blob/master/LICENSE.md)
+[![GitHub issues](https://img.shields.io/github/issues/acoiman/mapping_earthquakes)](https://github.com/acoiman/mapping_earthquakes/issues)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Facoiman%2Fmapping_earthquakes)
 
 # Title
 
