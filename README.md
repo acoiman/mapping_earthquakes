@@ -3,6 +3,14 @@
 [![GitHub issues](https://img.shields.io/github/issues/acoiman/mapping_earthquakes)](https://github.com/acoiman/mapping_earthquakes/issues)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Facoiman%2Fmapping_earthquakes)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Facoiman%2Fmapping_earthquakes)
 
+
+https://img.shields.io/github/issues/acoiman/mapping_earthquakes
+https://img.shields.io/github/forks/acoiman/mapping_earthquakes
+https://img.shields.io/github/stars/acoiman/mapping_earthquakes
+https://img.shields.io/github/stars/acoiman/mapping_earthquakes
+
+  
+
 # Title
 
 Retrieving, Analyzing and Visualizing georeferenced data of earthquakes near [Fiji](https://es.wikipedia.org/wiki/Fiyi) since 1964
